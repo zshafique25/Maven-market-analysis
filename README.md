@@ -18,7 +18,7 @@ The project leverages data from various sources including sales records and cust
    - A relational database model was constructed to organize the integrated data.
    - Tables were created for customers, products, sales transactions, and inventory.
    - Relationships between tables were established.
-![Databasemodel]()
+![Databasemodel](https://github.com/zshafique25/Maven-market-analysis/blob/master/databasemodel.PNG)
 
 3. **Adding Calculated Fields**:
    - Additional fields were calculated to derive meaningful insights using Data Analysis Expressions (DAX).
